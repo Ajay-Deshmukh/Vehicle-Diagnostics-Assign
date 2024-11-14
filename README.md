@@ -17,7 +17,7 @@ Before starting, ensure you have the following installed:
 
 ### Backend Setup
 1. Navigate to the server directory:
-   cd diagnostics-dashboard/server
+   cd server
    
 2. Install dependencies:
    npm install
@@ -27,7 +27,7 @@ Before starting, ensure you have the following installed:
 
 ### Frontend Setup
 1. Navigate to the client directory:
-  cd diagnostics-dashboard/client
+  cd client
 2. Install dependencies:
   npm install
 3. Start the React app:
