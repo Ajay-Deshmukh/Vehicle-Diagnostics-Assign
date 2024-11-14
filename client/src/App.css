@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  h4 {
+    font-weight: 500;
+    margin: 0;
+  }
+  
+  .MuiContainer-root {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .MuiTable-root {
+    margin-top: 1rem;
+  }
+  
+  .MuiTableRow-root:nth-of-type(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .MuiTableCell-head {
+    background-color: #1976d2;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .MuiButton-contained {
+    background-color: #1976d2;
+    color: white;
+  }
+  
+  .MuiButton-contained:hover {
+    background-color: #155a9f;
+  }
+  
+  .alert {
+    background-color: #ffcccb !important; /* For alert rows */
+  }
+  
+  .filter-panel {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .dialog-content {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .dialog-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .add-btn {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .add-btn:hover {
+    background-color: #388e3c;
+  }
+  
