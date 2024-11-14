@@ -11,7 +11,7 @@ The **Vehicle Diagnostics Dashboard** is a full-stack application designed to ma
 ## Prerequisites
 Before starting, ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/) (Local mongodb Compass)
+- [MongoDB](https://www.mongodb.com/try/download/compass) (Local mongodb Compass)
 
 ## Setup Instructions
 
